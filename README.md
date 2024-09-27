@@ -13,7 +13,7 @@ Tenho conhecimento e experiência com automações mobile, web, api e com atuaç
 No meu portifolio tenho tentado divercificar um pouco sobre framework web, api, mobile e performance.
 
 ## 🛠 Habilidades
-
+- Python 
 - Java ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 - JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - Ruby ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
@@ -23,4 +23,5 @@ No meu portifolio tenho tentado divercificar um pouco sobre framework web, api, 
 - Cypress ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 - K6 ![K6](https://img.shields.io/badge/-K6-4A4A4A?style=flat-square&logo=k6&logoColor=white)
 - Jmeter ![Jmeter](https://img.shields.io/badge/-Jmeter-D91212?style=flat-square&logo=apache-jmeter&logoColor=white)
+
 
