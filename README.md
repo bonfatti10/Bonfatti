@@ -1,4 +1,4 @@
-# Olá, eu sou Carlos Bonfatti! 👋
+[# Olá, eu sou Carlos Bonfatti! 👋
 
 ## 🚀 Sobre mim
 
@@ -22,3 +22,4 @@ No meu portfólio, estou diversificando as tecnologias, explorando frameworks de
 - ![K6](https://img.shields.io/badge/-K6-4A4A4A?style=flat-square&logo=k6&logoColor=white)
 - ![Jmeter](https://img.shields.io/badge/-Jmeter-D91212?style=flat-square&logo=apache-jmeter&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+](https://www.linkedin.com/in/carlos-b-055043a4/)
