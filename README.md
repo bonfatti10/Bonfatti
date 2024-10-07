@@ -8,6 +8,11 @@ Tenho uma vasta experiência em automação de testes para mobile, web, API e pe
 ## 📈 Sobre o Projeto
 No meu portfólio, estou diversificando as tecnologias, explorando frameworks de automação para web, API, mobile e performance, sempre aplicando as melhores práticas e utilizando tecnologias emergentes.
 
+## 📊 Minhas Estatísticas GitHub
+![Carlos stats](https://github-readme-stats.vercel.app/api?username=carlosbonfatti&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbonfatti&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🛠 Habilidades
 - [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 - [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)](https://www.java.com/)
